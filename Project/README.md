@@ -99,17 +99,14 @@ Precision–Recall and ROC curves
 ### Final Project Deliverables
 # Presentation Slides
 
-https://github.com/
-<your-username>/ece5831-2025-final-project/blob/main/slides/final_presentation.pptx
+https://github.com/szeidan/ece5831-2025-final-project/blob/main/Project/slides/EV_Battery_Fault_Detection.pptx
 
-# Presentation Video (15 minutes)
+# Presentation Video
 
-https://youtu.be/XXXXXXXXXXX
+https://drive.google.com/file/d/1HmwPy4ZJk0-ESQLjgHVAg_qQ_JAsxibv/view?usp=sharing
 
 # Final Report (IEEE Format)
-
-https://github.com/
-<your-username>/ece5831-2025-final-project/blob/main/report/final_report.pdf
+https://github.com/szeidan/ece5831-2025-final-project/blob/main/Project/report/EV_Battery_Fault_Detection_FinalReport.docx.pdf
 
 # 📁 Dataset
 
