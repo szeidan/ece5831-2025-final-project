@@ -114,9 +114,6 @@ Original source: https://www.kaggle.com/datasets/nuheel/battery-health-nasa-data
 
 Local copy: Data/battery_data/
 
-# Demo Video
-
-https://youtu.be/YYYYYYYYYYY
 
 ### Reproducibility Notes
 
@@ -126,6 +123,6 @@ Requires only pip install -r requirements.txt
 
 No proprietary tools required
 
-# Author
+### Author
 Sobhi Zeidan
 ECE 5831 – University of Michigan
