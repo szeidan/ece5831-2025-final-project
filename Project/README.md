@@ -64,7 +64,7 @@ ece5831-2025-final-project/
 ## How to Run the Project (Reproducibility)
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/<your-username>/ece5831-2025-final-project
 cd ece5831-2025-final-project
 
